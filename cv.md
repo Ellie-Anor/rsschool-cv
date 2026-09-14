@@ -1,3 +1,7 @@
+---
+permalink: /cv
+---
+
 ## Резюме
 
 ### Контактные Данные:
@@ -26,7 +30,7 @@ Email для проффесиональной деятельности: _contj02
 
 Нарабатываю навыки для дальнейшего трудоустройства (в поисках стажировки). Есть опыт работы в мультикультурной команде, а также участие в проектных работах/олимпиадах.
 
-Быстро осваиваю новые программные продукты и платформы. Обладаю развитыми навыками коммуникации на трех языках, что позволяет быстро адаптироваться и интегрироваться в процесс командной работы, с инностранцами в том числе. 
+Быстро осваиваю новые программные продукты и платформы. Обладаю развитыми навыками коммуникации на трех языках, что позволяет быстро адаптироваться и интегрироваться в процесс командной работы, с инностранцами в том числе.
 
 > Мне нравится работать в команде и я всегда рада новым знакомствам. Очень люблю совместное обучение с членами команды/однокурсниками )
 
@@ -60,7 +64,7 @@ As of 2026, I am a third-year student majoring in _“Software Engineering”_. 
 
 I am building skills for future employment (currently looking for an internship). I have experience working in a multicultural team, as well as participating in project work and competitions.
 
-I quickly master new software products and platforms. I have strong communication skills in three languages, which allows me to quickly adapt and integrate into teamwork, including with international colleagues. 
+I quickly master new software products and platforms. I have strong communication skills in three languages, which allows me to quickly adapt and integrate into teamwork, including with international colleagues.
 
 > I enjoy working in a team :)
-Always happy to meet new people. I really love learning together with team members and classmates
+> Always happy to meet new people. I really love learning together with team members and classmates
